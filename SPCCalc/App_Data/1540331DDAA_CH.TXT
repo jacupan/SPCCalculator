@@ -1,0 +1,44 @@
+
+         Element          Actual         Nominal         Deviat.         Up Tol.        Low Tol.       Pass/Fail
+                                                        (TP Dev)        (TP Tol)                                
+Circle: PKG_DIAMETER_13(ID:3, From 10 Pts.) 
+     Diameter =           7.9775          8.0000         -0.0225          0.0500         -0.0500            PASS
+
+Distance: PKG_TO_FRAME_MISALIGNMENT_13(ID:4) between C1_ORIGIN(ID:1) and PKG_DIAMETER_13(ID:3)
+           DX =           7.3223          7.3000          0.0223          0.1000         -0.1000            PASS
+           DY =          20.0030         20.0000          0.0030          0.1000         -0.1000            PASS
+
+Distance: PKG_HEIGHT_13(ID:7) between LINE_13(ID:5) and PT_13(ID:6)
+           LC =           5.7936          5.8000         -0.0064          0.0500         -0.0500            PASS
+
+Circle: PKG_DIAMETER_03(ID:9, From 10 Pts.) 
+     Diameter =           7.9754          8.0000         -0.0246          0.0500         -0.0500            PASS
+
+Distance: PKG_TO_FRAME_MISALIGNMENT_03(ID:10) between C3(ID:8) and PKG_DIAMETER_03(ID:9)
+           DX =          35.7165         35.7000          0.0165          0.1000         -0.1000            PASS
+           DY =          20.0139         20.0000          0.0139          0.1000         -0.1000            PASS
+
+Distance: PKG_HEIGHT_03(ID:13) between LINE_03(ID:11) and PT_03(ID:12)
+           LC =           5.7744          5.8000         -0.0256          0.0500         -0.0500            PASS
+
+Circle: PKG_DIAMETER_08(ID:15, From 10 Pts.) 
+     Diameter =           7.9809          8.0000         -0.0191          0.0500         -0.0500            PASS
+
+Distance: PKG_TO_FRAME_MISALIGNMENT_08(ID:16) between C4(ID:14) and PKG_DIAMETER_08(ID:15)
+           DX =          21.5203         21.5000          0.0203          0.1000         -0.1000            PASS
+           DY =          20.0179         20.0000          0.0179          0.1000         -0.1000            PASS
+
+Distance: PKG_HEIGHT_08(ID:19) between LINE_08(ID:17) and PT_08(ID:18)
+           LC =           5.7843          5.8000         -0.0157          0.0500         -0.0500            PASS
+
+Circle: PKG_DIAMETER_06(ID:20, From 10 Pts.) 
+     Diameter =           7.9800          8.0000         -0.0200          0.0500         -0.0500            PASS
+
+Distance: PKG_TO_FRAME_MISALIGNMENT_06(ID:23) between C2_ALIGN(ID:2) and PKG_DIAMETER_06(ID:20)
+           DX =          35.7270         35.7000          0.0270          0.1000         -0.1000            PASS
+           DY =          20.0177         20.0000          0.0177          0.1000         -0.1000            PASS
+
+Distance: PKG_HEIGHT_06(ID:24) between LINE_06(ID:21) and PT_06(ID:22)
+           LC =           5.7893          5.8000         -0.0107          0.0500         -0.0500            PASS
+
+MEASUREMENT FINISHED...
